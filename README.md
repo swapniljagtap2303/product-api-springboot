@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zest India – Product REST API
 
 Implementation of the supplied Java Backend Developer Technical Evaluation. The assignment asks for Product CRUD, Java 17+, Spring Boot, JPA/Hibernate, PostgreSQL/MySQL, JWT + refresh token rotation, RBAC, validation, indexing, async where applicable, CORS/HTTPS, JUnit/Mockito, H2 integration testing, Swagger/OpenAPI and Docker. Evaluation focuses on clean architecture, REST quality, security, tests, documentation and deployment readiness.
@@ -36,3 +37,7 @@ JUnit 5 + Mockito unit tests cover service/controller behavior. Spring Boot inte
 
 ## Note on async
 The supplied assignment says async processing where applicable; the CRUD path is synchronous because it requires immediate API responses and no long-running background operation is required by the stated endpoints. This avoids unnecessary complexity.
+=======
+# product-api-springboot
+Product REST API using Spring Boot, JPA, MySQL and JWT
+>>>>>>> 85e76071421575a516d31349be3cfd752d3cab17
